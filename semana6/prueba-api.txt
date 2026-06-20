@@ -1,0 +1,7 @@
+Al enviar la petición POST a la ruta /registro con el JSON sugerido, el servidor captura los datos a través de req.body y devuelve esta respuesta en formato JSON confirmando la recepción:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

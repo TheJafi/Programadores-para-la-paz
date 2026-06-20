@@ -1,0 +1,4 @@
+{
+  "tipo": "Servicios Públicos",
+  "descripcion": "Llevamos tres días sin recolección de basuras en la calle principal del barrio."
+}
