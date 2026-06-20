@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Seguridad",
+  "descripcion": "Cables de electricidad expuestos cerca del parque infantil."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Salud Pública",
+  "descripcion": "Fuga de aguas negras en la calle principal, afectando a los vecinos."
+}

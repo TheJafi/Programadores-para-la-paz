@@ -1,0 +1,15 @@
+Al enviar un par de datos usando POST (con Thunder Client o Postman) y luego consultar la ruta GET /reportes en el navegador, el servidor devuelve un Array (lista) en formato JSON con todos los objetos que hemos registrado en memoria. La respuesta se ve de la siguiente manera:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  },
+  {
+    "id": 2,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  }
+]
+Nota: Si reinicio el servidor, esta lista vuelve a quedar vacía porque se guarda temporalmente en la memoria (RAM) y no en una base de datos.
