@@ -1,0 +1,5 @@
+Al probar las rutas en el navegador ocurre lo siguiente:
+
+1. http://localhost:3000 : Muestra el texto "Servidor activo", confirmando que la ruta principal (/) responde bien.
+2. http://localhost:3000/saludo : Muestra el texto "Hola comunidad", respondiendo a esa ruta específica.
+3. http://localhost:3000/mensaje/juan : Muestra el texto "Hola juan". Aquí el servidor lee el nombre directamente desde la URL (parámetro dinámico) y lo usa para armar el mensaje en pantalla.
