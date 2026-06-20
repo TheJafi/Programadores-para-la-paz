@@ -1,0 +1,6 @@
+¿Qué muestra cada comando en Linux?
+- "uname -a": Muestra información detallada sobre el sistema operativo, la versión del núcleo (kernel), el nombre de la máquina y la arquitectura del procesador.
+- "whoami": Muestra el nombre del usuario actual que ha iniciado sesión y está ejecutando comandos en la terminal.
+
+¿Por qué es útil conocer esta información?
+Al administrar un servidor, es vital saber con qué usuario estamos trabajando (para evitar hacer cambios destructivos si estamos como administrador/root sin darnos cuenta) y conocer la versión exacta del sistema para instalar los programas compatibles y parchar vulnerabilidades de seguridad.

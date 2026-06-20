@@ -1,0 +1,5 @@
+1. No exponer datos personales ni información confidencial de los miembros de la comunidad.
+2. Exigir contraseñas seguras y, de ser posible, autenticación de dos pasos.
+3. Usar conexiones cifradas (HTTPS) para proteger los datos mientras viajan por internet.
+4. Mantener un registro de los accesos (logs) para detectar rápidamente cualquier actividad sospechosa.
+5. Configurar niveles de permisos para limitar el acceso a la información sensible solo a líderes o administradores autorizados.
