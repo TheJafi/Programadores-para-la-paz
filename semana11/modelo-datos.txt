@@ -1,0 +1,20 @@
+Modelo básico de datos para la plataforma comunitaria:
+
+Entidad: Iniciativa
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha_creacion
+- estado (activa/cerrada)
+Propósito:
+Almacenar las propuestas, causas o proyectos ciudadanos que se registrarán en la plataforma para conocimiento de la comunidad.
+
+Entidad: Respaldo
+Campos principales:
+- id
+- iniciativa_id (relación con la entidad Iniciativa)
+- usuario_id (identificador anónimo del usuario)
+- fecha_respaldo
+Propósito:
+Registrar los apoyos o "firmas" que recibe cada iniciativa, permitiendo llevar un conteo exacto y hacer seguimiento a la participación ciudadana sin duplicar votos.

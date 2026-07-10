@@ -1,0 +1,4 @@
+Descripción de la interfaz básica:
+La interfaz de esta plataforma estaría diseñada para ser intuitiva y directa. Contaría con un "Tablero de Iniciativas" donde se mostraría una vista de las causas disponibles en forma de tarjetas; allí los usuarios podrían leer el título y la descripción de cada una. 
+
+Cada tarjeta tendría integrado un botón de "Apoyar causa" y un contador dinámico que muestre cuántas personas ya han sumado su respaldo. Por otro lado, existiría una sección protegida con un formulario claro para crear una nueva causa, el cual solicitaría únicamente título, descripción y fecha. La interfaz garantizaría en todo momento mostrar solo información pública, manteniendo ocultos los datos privados de los creadores y votantes.
