@@ -1,0 +1,16 @@
+Backlog del proyecto (Solución comunitaria para logística y veeduría en eventos):
+
+Prioridad 1 (Alta):
+Como organizador comunitario, quiero registrar la ruta, horario y puntos de encuentro de los desfiles para que los asistentes estén informados de manera oficial.
+
+Prioridad 2 (Alta):
+Como veedor o ciudadano, quiero registrar un incidente logístico o de seguridad durante el recorrido para solicitar apoyo rápido y dejar evidencia del caso.
+
+Prioridad 3 (Media):
+Como coordinador logístico, quiero recibir una alerta automática en Telegram cuando se registre un nuevo reporte para poder movilizar al equipo más cercano.
+
+Prioridad 4 (Media):
+Como asistente al evento, quiero recibir notificaciones sobre cambios de última hora en el cronograma para poder ajustar mi hora de llegada.
+
+Prioridad 5 (Baja):
+Como miembro del equipo de análisis, quiero consultar el historial consolidado de reportes post-evento para evaluar las áreas a mejorar el próximo año.

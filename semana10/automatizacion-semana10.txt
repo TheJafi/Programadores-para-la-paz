@@ -1,0 +1,11 @@
+Flujo de automatización para coordinación comunitaria:
+
+¿Qué evento activa el flujo?
+El flujo en n8n se activa mediante un Webhook cuando un ciudadano o veedor envía un nuevo reporte de incidente a través de la plataforma comunitaria.
+
+¿Qué mensaje se enviaría a Telegram?
+Se enviaría al grupo de coordinación logística el siguiente mensaje:
+"⚠️ Nuevo reporte de incidencia recibido en la zona. Por favor, revisar el sistema de control para coordinar el apoyo logístico."
+
+¿Qué información no debería enviarse por seguridad?
+Por seguridad y protección de datos, el mensaje de Telegram NUNCA debe incluir los nombres completos de quien reporta o de los involucrados, números de documento de identidad, números de teléfono, direcciones exactas de residencias ni fotografías que expongan a menores o personas en situaciones vulnerables.

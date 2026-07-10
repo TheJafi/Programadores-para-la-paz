@@ -1,0 +1,12 @@
+¿Qué 2 tareas del backlog harías primero?
+1. La historia del organizador comunitario (registrar la ruta y horario).
+2. La historia del veedor o ciudadano (registrar un incidente logístico).
+
+¿Por qué son las más importantes?
+Porque representan el núcleo (MVP) de la aplicación comunitaria. Sin la información básica del evento publicado, no hay utilidad para los asistentes; y sin la capacidad de reportar incidentes, se pierde el propósito de la veeduría en tiempo real. Las notificaciones y los históricos son importantes, pero dependen de que estas dos primeras funciones existan.
+
+¿Qué significa para ti que una tarea esté "terminada"? (Definición de Terminado / Definition of Done)
+Una tarea se considera terminada cuando cumple con los siguientes criterios:
+1. Funciona correctamente y cumple con los requisitos específicos de su historia de usuario.
+2. El código está limpio, ha sido refactorizado y fue probado localmente sin arrojar errores.
+3. Quedó guardada y registrada en Git (commit) sin incluir claves de API, tokens ni datos sensibles.
