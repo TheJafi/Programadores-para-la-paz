@@ -1,0 +1,7 @@
+Flujo del Sistema "Petición en 3 Clics"
+
+1. Creación de la causa: Un líder comunitario o ciudadano inicia sesión y registra una nueva causa o petición completando un formulario básico (título y descripción del problema).
+2. Publicación y visualización: La causa se guarda en la base de datos y se expone públicamente con un enlace único y un botón claro para "Apoyar Causa".
+3. Registro del apoyo: Los miembros de la comunidad ingresan al enlace y, con un par de clics, registran su apoyo utilizando el mínimo de datos personales requeridos para validar su firma.
+4. Generación automática: El backend procesa los apoyos y, de forma dinámica, compila la información agregada en una plantilla formal para generar un documento PDF estructurado.
+5. Entrega y notificación: El sistema guarda el PDF en el servidor, notifica a los organizadores mediante una alerta automática (por ejemplo, en Telegram) que la meta de apoyos ha sido alcanzada, y les proporciona el archivo final listo para descargar y presentar ante las autoridades.

@@ -1,0 +1,9 @@
+Durante este curso he comprendido que la tecnología no es solo un fin técnico, sino un poderoso motor de transformación social.
+Al diseñar herramientas sencillas como la 'Petición en 3 Clics', se reduce drásticamente la barrera de entrada para la participación de los ciudadanos.
+Aprendí que la integración fluida entre bases de datos, generación de documentos y automatizaciones optimiza de forma real el trabajo comunitario.
+Esto nos permite pasar rápidamente de una iniciativa colectiva informal a un documento con formato administrativo, claro y con validez legal.
+Asimismo, el curso me concientizó sobre la importancia ética de la privacidad de los datos y el principio de la minimización.
+Proteger la identidad de los participantes en plataformas sociales es clave para construir la confianza colectiva en entornos digitales.
+Por otro lado, la automatización mediante notificaciones inmediatas mantiene conectada a la comunidad sin sobrecargar de tareas a sus líderes.
+En conclusión, el desarrollo de software con enfoque social otorga autonomía a las comunidades para exigir sus derechos de forma estructurada.
+Esta experiencia reafirma que el código estructurado de manera ética puede convertirse en una gran herramienta para la democracia participativa.

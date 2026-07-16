@@ -1,0 +1,12 @@
+Flujo de Automatización - Petición en 3 Clics
+
+Herramienta sugerida: Telegram / n8n
+
+- Evento que activa la automatización:
+  Se registra una nueva causa en la base de datos o una causa activa alcanza la meta de apoyos requerida.
+
+- Mensaje que se envía:
+  "📢 ¡Atención Comunidad! Se ha registrado una nueva causa titulada: '[Título de la Causa]'. Entra al enlace para conocer más y sumar tu apoyo en solo 3 clics."
+
+- Información que NO debe enviarse por seguridad (Privacidad de Datos):
+  No se deben enviar nombres completos, números de identificación, direcciones físicas, correos electrónicos de los ciudadanos que apoyan, ni comentarios internos de carácter privado o sensible para proteger la confidencialidad de los usuarios.

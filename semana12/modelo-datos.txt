@@ -1,0 +1,19 @@
+Modelo de Datos - Petición en 3 Clics
+
+Entidades Principales:
+
+1. Entidad: Causa
+- id (Entero / Llave Primaria): Identificador único de cada petición.
+- titulo (Texto): Nombre descriptivo y claro de la causa comunitaria.
+- descripcion (Texto): Explicación detallada de la problemática y la solicitud formal.
+- fecha (Fecha): Fecha y hora de creación de la causa.
+
+Explicación: Esta entidad sirve para almacenar y gestionar el núcleo de las peticiones dentro del sistema, permitiendo que cada iniciativa ciudadana tenga un espacio único y una descripción clara de sus objetivos.
+
+2. Entidad: Apoyo
+- id (Entero / Llave Primaria): Identificador único del registro de apoyo.
+- causa_id (Entero / Llave Foránea): Relación directa con la entidad Causa a la cual se apoya.
+- nombre (Texto): Nombre o identificador simplificado del ciudadano que apoya.
+- fecha (Fecha): Fecha y hora exactas en las que se registró el apoyo.
+
+Explicación: Esta entidad permite rastrear los respaldos digitales que recibe cada causa. Al relacionarse con "Causa" mediante la llave foránea, hace posible el conteo de firmas para la posterior validación y generación del documento PDF colectivo.
